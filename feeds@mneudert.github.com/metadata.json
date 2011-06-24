@@ -1,0 +1,7 @@
+{
+    "shell-version": ["3.0"],
+    "uuid": "feeds@mneudert.github.com",
+    "name": "Feed Reader",
+    "description": "Top bar feed reader",
+    "url": "http://mneudert.github.com/gnome-shell-extension-feeds/"
+}
